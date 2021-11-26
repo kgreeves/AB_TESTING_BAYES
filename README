@@ -1,0 +1,10 @@
+Exploring Bayesian Statistics for applications to business: A/B Testing Use Case
+
+#VIRTUAL ENV
+conda activate bayes_AB_venv
+conda list --explicit > spec-file.txt
+
+
+ - MOTIVATION : Testing changes/new features and their influence on KPIs
+ 
+- 
